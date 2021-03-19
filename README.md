@@ -27,8 +27,9 @@
  4. Start ```Zadig```
  5. Select ```Options -> List All Devices```
  6. Select ```STM32 BOOTLOADER``` from the device dropdown
- 7. Select ```WinUSB (v6.1.7600.16385)``` as new driver
- 8. Click ```Replace Driver```
+ 7. Verify that the USB ID is ```0483 df11```, if it is not, do not proceed!
+ 8. Select ```WinUSB (v6.1.7600.16385)``` as new driver
+ 9. Click ```Replace Driver```
 
 ##### USB Serial driver setup for STM32L4 based boards (Windows 7/XP only, not for Windows 8 or 10)
 
